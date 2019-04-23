@@ -9,6 +9,8 @@ class HW1
 
  System.out.println("hello!!!It's third time");
 
+System.out.println("hello!!!It's fourth time");
+
 }       	
 	}
 
