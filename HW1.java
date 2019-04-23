@@ -5,7 +5,8 @@ class HW1
 
 	System.out.println("hello!!!It's first time");
 	
-	
+	System.out.println("hello!!!It's secondOB time");
+
  
 }       	
 	}
